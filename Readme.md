@@ -2,7 +2,7 @@
 
 A [Launchbar](http://www.obdev.at/products/launchbar/index.html) Applescript action to add syntax highlighted code snippets to [Yojimbo](http://www.barebones.com/products/Yojimbo/), using [pygments](http://pygments.org).
 
-## Installation Intstuctions
+## Installation Instructions
 
 You will need to have installed Launchbar, Yojimbo, and pygments. You probably have the first 2 already setup if you are interested in these scripts. Pygments is a fairly easy install, but out of the scope of these instructions.
 
